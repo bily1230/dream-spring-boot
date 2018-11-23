@@ -1,3 +1,5 @@
+#.yml文件不能通过 @PropertySource加载
+
 ningbin:
   age: 12
   name: xiaoming
